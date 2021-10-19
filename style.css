@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+   margin: 0;
+}	
+
+h1{
+	color:red; font-size: 300%;
+}
+
+
+.shapka{
+	 height: 150px; background-image: url("img1.jpg");
+   }
+
+ .ots{
+ 	font-size: 110%;
+ }
+
+ .ots1{
+ 	font-size: 130%;
+ }
+
+.ots2{
+    font-size: 170%;
+}
